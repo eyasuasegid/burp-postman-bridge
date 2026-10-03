@@ -47,7 +47,7 @@ You **do not need to install Gradle**. The repository includes the Gradle Wrappe
 ### Linux
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/eyasuasegid/burp-postman-bridge.git
 cd burp-postman-bridge
 
 chmod +x gradlew build.sh
@@ -65,7 +65,7 @@ Or build directly:
 PowerShell:
 
 ```powershell
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/eyasuasegid/burp-postman-bridge.git
 cd burp-postman-bridge
 
 .\build.ps1
